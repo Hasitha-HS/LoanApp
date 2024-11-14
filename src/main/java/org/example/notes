@@ -1,0 +1,44 @@
+
+create apis without spring
+
+
+connect to UI
+IT Remote Access VPN - Staff User Request
+
+
+api naming convention
+
+swagger
+exception handle
+
+balance auto calc
+
+
+Kubernetes
+
+
+ITSR - AWS access request SSO - exisitng group
+
+
+////////////////
+
+return response {
+                	"status": "SUCCESS",
+                	"code": 200,
+                	"data" : {
+                		"clientId": 123,
+                		"name": "Hasitha"
+
+                		/////////////////////////// Exception ////////////////
+                		Exception
+                	}
+                }
+
+
+Service layer
+
+implement correct get Apis with QueryParams or path varibles
+
+DTO
+
+
